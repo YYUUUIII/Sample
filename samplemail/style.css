@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(168, 245, 202);
+}
+
+.inputarea{
+    width:200px;
+    height:20px;
+    margin-left: 65px;
+    padding-left: 0.3rem;
+}
+
+.name{
+    margin-left:80px;
+}
+
+div{
+    margin:10px;
+}
+
+.ask{
+    display: flex;
+
+}
+
+.color{
+    display: flex;
+    gap:60px;
+    align-items: center;;
+
+}
+
+.select{
+    background-color: #fff;
+    margin-left: 5px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border: 0.98px solid #000000;
+    border-radius: 2px;
+    letter-spacing: 0.08rem;
+}
+
+.messe{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-left: 15px;
+}
+
+.btn{
+    margin-left: 110px;
+    margin-top: 5px;
+    padding:2px 15px;
+}
